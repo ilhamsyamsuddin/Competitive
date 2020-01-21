@@ -1,6 +1,7 @@
 - Coba blogging ttg:
   *Topik-topik di Buku itu
   *Ilmu-ilmu lain
+  Pengalaman Pribadi
  Butuh:
   *Web(Hosting sendiri? Wordpress?)
   
