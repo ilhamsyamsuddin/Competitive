@@ -1,1 +1,6 @@
-- Coba blogging ttg topik-topik matematika
+- Coba blogging ttg:
+  *Topik-topik di Buku itu
+  *Ilmu-ilmu lain
+ Butuh:
+  *Web(Hosting sendiri? Wordpress?)
+  
