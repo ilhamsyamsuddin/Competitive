@@ -1,0 +1,6 @@
+selesaikan Proposal TA paling lambat 24 Januari 2020
+Selesaikan KP paling lambat Mei
+Fokus belajar Topik-topik berikut, minimal setengah jam sehari:
+1. Progjar(Network programming with python)
+2. Laravel(malasngoding dan Laravel 6)
+3. Tensorflow
